@@ -1,5 +1,5 @@
 # EthBankCO
-World's first blockchain with a transaction latency of just 2 seconds. It is a blockchain build inside the ethereum blockchain with the native language [`Solidity`][sol].
+World's first smartcontract with a transaction latency of just 2 seconds. It is a smartcontract build inside the ethereum blockchain with the native language [`Solidity`][sol].
 ## Reason behind building it?
 Time is a very valuable thing to human being and that is the simple reason behind people not using the cryptocurrency as their permanent mode of transaction. Firstly, all the native cryptocurrencies have a very slow and unoptimised way of keeping the ledger. So I thought the ways to optimise it and came up with EthBankCO. The working procedure is just so simple that even a beginner in Solidity can understand the working and make the suitable changes. The simplicity of the blockchain makes the work of the EVM(Ethereum Virtual Machine) effortless. THis is how we acheive so quick transaction times on our blockchain
 
